@@ -1,0 +1,6 @@
+{
+  "name": "ScrapIQ - AI Scrap & Circular Materials Exchanger",
+  "description": "AI-powered scrap materials exchange platform with vision grading, spot commodity pricing, instant trade matching, and ESG carbon offset tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
